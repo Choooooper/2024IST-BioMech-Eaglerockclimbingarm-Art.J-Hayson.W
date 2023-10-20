@@ -1,3 +1,3 @@
 # Eagle rockclimbingarm
 
-Pictorial: https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-Art.J-Hayson.W/blob/129c457c5bb62cefdf99b2a02c459d09570b93c3/workingDocuments/graph%20of%20arm.png
+Pictorial: https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-Art.J-Hayson.W/blob/f744c0456507d7c096bb368f91eca25fd59fe8cc/workingDocuments/Pictorial.png
