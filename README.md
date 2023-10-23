@@ -9,6 +9,10 @@ UAT Test Plan: https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-A
 
 We are making a biomedical prosthetic for Aaron. The arm that we will produce for him will use an ultrasonic sensor to allow the arm to automatically grab rocks when they are close enough and a button connected to a mouth guard will be used to open the arm.
 
-Hayson: Produce 1st prototype 
+Hayson:
+Produce 1st prototype
+test the 1st prototype
 
-Art: produce code for 1st prototype
+Art:
+produce code for 1st prototype
+test the 1st prototype
