@@ -1,6 +1,6 @@
 #include "Ultrasonic.h"
 
-#include "Ultrasonic.cp"
+#include "Ultrasonic.cpp"
 
 Ultrasonic myUltrasonicSensor(5);
 
