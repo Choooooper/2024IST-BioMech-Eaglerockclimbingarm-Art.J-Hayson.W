@@ -40,7 +40,7 @@ class Ultrasonic {
     long MeasureInMillimeters(uint32_t timeout = 1000000L);
     long MeasureInInches(uint32_t timeout = 1000000L);
   private:
-    int _pin;//pin number of Arduino that is connected with SIG pin of Ultrasonic Ranger.
+    int _pin;//Pin number of Arduino that is connected with SIG pin of Ultrasonic Ranger.
     long duration(uint32_t timeout = 1000000L);
 };
 
