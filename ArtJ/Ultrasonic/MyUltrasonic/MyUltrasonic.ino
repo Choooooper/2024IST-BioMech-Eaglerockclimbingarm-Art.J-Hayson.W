@@ -12,7 +12,7 @@ void setup()
 void loop()
 {
   long RangeInCentimeters;
-  RangeInCentimeters = myUltrasonicSensor.MeasureInCentimeters(); // two measurements should keep an interval
+  RangeInCentimeters = myUltrasonicSensor.MeasureInCentimeters(); // Two measurements should keep an interval
   Serial.print(RangeInCentimeters);//0~400cm
   Serial.println(" cm");
   delay(250);
