@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We are making a biomedical prosthetic for Aaron. The arm that we will produce for him will use an ultrasonic sensor to allow the arm to automatically grab rocks when they are close enough and a button connected to a mouth guard will be used to open the arm.
+We are making a biomedical prosthetic for Aaron. The arm that we will produce for him will use an ultrasonic sensor to allow the arm to automatically grab rocks when they are close enough, and a button connected to a mouth guard will be used to open the arm.
 
 [ERCA Concept Pictorial] (https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-Art.J-Hayson.W/blob/f744c0456507d7c096bb368f91eca25fd59fe8cc/workingDocuments/Pictorial.png)
 
