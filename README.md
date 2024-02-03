@@ -8,7 +8,7 @@ We are making a biomedical prosthetic for Aaron. The arm that we will produce fo
 
 ![Flow Chart and Pseudo Code](https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-Art.J-Hayson.W/blob/420da60dd7419dfae738d0d23d8adf377ee51599/workingDocuments/Flowchart-and-PseudoCode.png)
 
-![UAT Test Plan](https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-Art.J-Hayson.W/blob/420da60dd7419dfae738d0d23d8adf377ee51599/workingDocuments/UAT_TestPlan%20Templatev2.pdf)
+[UAT Test Plan](https://github.com/TempeHS/2024IST-BioMech-Eaglerockclimbingarm-Art.J-Hayson.W/blob/420da60dd7419dfae738d0d23d8adf377ee51599/workingDocuments/UAT_TestPlan%20Templatev2.pdf)
 
 - Hayson:
 Produce 1st prototype
